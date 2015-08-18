@@ -1,6 +1,6 @@
-## 0.9.0
+## 0.15.0
 - removed project, need to rewrite it
-- fixed input text 
+- fixed input text
 
 ## 0.8.0
 - new project will create an alloy project
