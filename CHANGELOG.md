@@ -1,3 +1,6 @@
+## 0.20.0
+- remove pathwatcher - using atom
+
 ## 0.15.0
 - removed project, need to rewrite it
 - fixed input text

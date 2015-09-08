@@ -19,7 +19,6 @@
     "atom": ">=0.180.0"
   },
   "dependencies": {
-    "pathwatcher": "*"
   },
   "readme": "# ti-create - Appcelerator Alloy Create package\n\nCreates a controller (including view and style) and widgets for an Titanium Alloy project.\nXML file will have a basic window layout.\n\nworks inside Alloy projects (open folder - project folder)\n",
   "readmeFilename": "README.md",
