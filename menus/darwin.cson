@@ -1,25 +1,20 @@
 'menu': [{
-'label': 'Packages',
-'submenu': [{
-'label': 'Titanium'
-'submenu': [{
-'label': 'Create',
-'submenu': [{
-'label': 'Project'
-'command': 'ti-create:project'
-} ,
-{
-'label': 'Controller'
-'command': 'ti-create:controller'
-} ,
-{
-'label': 'Widget'
-'command': 'ti-create:widget'
-}
-]
-}
-]
-}
-]
-}
-]
+    'label': 'Packages',
+    'submenu': [{
+        'label': 'Titanium'
+        'submenu': [{
+            'label': 'Create',
+            'submenu': [{
+                'label': 'Project'
+                'command': 'ti-create:project'
+                }, {
+                    'label': 'Controller'
+                    'command': 'ti-create:controller'
+                }, {
+                    'label': 'Widget'
+                    'command': 'ti-create:widget'
+                }
+            ]
+        }]
+    }]
+}]

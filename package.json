@@ -1,32 +1,34 @@
 {
-  "name": "ti-create",
-  "main": "./lib/ti-create",
-  "version": "0.20.0",
-  "description": "Creates a controller, view and style for an Alloy project",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/m1ga/ti-create"
-  },
-  "license": "MIT",
-  "activationCommands": {
-    "atom-workspace": [
-      "ti-create:controller",
-      "ti-create:widget",
-      "ti-create:project"
-    ]
-  },
-  "engines": {
-    "atom": ">=0.180.0"
-  },
-  "dependencies": {},
-  "readme": "# ti-create - Appcelerator Alloy Create package\n\nCreates a controller (including view and style) and widgets for an Titanium Alloy project.\nXML file will have a basic window layout.\n\nworks inside Alloy projects (open folder - project folder)\n",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/m1ga/ti-create/issues"
-  },
-  "homepage": "https://github.com/m1ga/ti-create",
-  "_id": "ti-create@0.7.0",
-  "dist": {
-    "shasum": "d1762c25c30ed9c861f1098ce1b7184a9ceacc04"
-  }
+    "name": "ti-create",
+    "main": "./lib/ti-create",
+    "version": "0.20.0",
+    "description": "Creates a controller, view and style for an Alloy project",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m1ga/ti-create"
+    },
+    "license": "MIT",
+    "activationCommands": {
+        "atom-workspace": [
+            "ti-create:controller",
+            "ti-create:widget",
+            "ti-create:project"
+        ]
+    },
+    "engines": {
+        "atom": ">=0.180.0"
+    },
+    "dependencies": {
+
+    },
+    "readme": "# ti-create\n\n Module to create a new Appcelerator Titanium Alloy project, controller and widgets.",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/m1ga/ti-create/issues"
+    },
+    "homepage": "https://github.com/m1ga/ti-create",
+    "_id": "ti-create@0.7.0",
+    "dist": {
+        "shasum": "d1762c25c30ed9c861f1098ce1b7184a9ceacc04"
+    }
 }
