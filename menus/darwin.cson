@@ -13,6 +13,9 @@
                 }, {
                     'label': 'Widget'
                     'command': 'ti-create:widget'
+                }, {
+                    'label': 'Model'
+                    'command': 'ti-create:model'
                 }
             ]
         }]

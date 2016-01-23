@@ -12,14 +12,15 @@
     "atom-workspace": [
       "ti-create:controller",
       "ti-create:widget",
-      "ti-create:project"
+      "ti-create:project",
+      "ti-create:model"
     ]
   },
   "engines": {
     "atom": ">=0.180.0"
   },
   "dependencies": {},
-  "readme": "# ti-create\n\n Module to create a new Appcelerator Titanium Alloy project, controller and widgets.",
+  "readme": "# ti-create\n\n Module to create a new Appcelerator Titanium Alloy project, controller, widgets and models.",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/m1ga/ti-create/issues"
