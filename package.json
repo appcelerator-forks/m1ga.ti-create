@@ -1,7 +1,7 @@
 {
   "name": "ti-create",
   "main": "./lib/ti-create",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "description": "Creates a controller, view and style for an Alloy project",
   "repository": {
     "type": "git",
