@@ -4,7 +4,7 @@ This package allows you to create a new Titanium (Alloy) project or a widget/con
 
 ### create a project
 
-* run "Ti Create: project"
+* run "Titanium: create project"
 * go to the parent directory
 * create a new (project) folder
 * select the new folder and click 'ok'
@@ -12,9 +12,9 @@ This package allows you to create a new Titanium (Alloy) project or a widget/con
 It will automatically create a new project inside the folder and opens a new atom instance with the project
 
 
-### create a widget / controller
+### create a widget / controller / model
 
 To create a new controller or widget you have to be inside an existing Alloy folder.
 
-* run "Ti Create: widget" / "Ti Create: controller"
+* run "Titanium: create widget" / "Titanium: create controller" / "Titanum: create model"
 * add the name in the input dialog
