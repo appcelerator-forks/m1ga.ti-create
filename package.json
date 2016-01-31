@@ -10,10 +10,10 @@
   "license": "MIT",
   "activationCommands": {
     "atom-workspace": [
-      "ti-create:controller",
-      "ti-create:widget",
-      "ti-create:project",
-      "ti-create:model"
+      "Titanium:create controller",
+      "Titanium:create widget",
+      "Titanium:create project",
+      "Titanium:create model"
     ]
   },
   "engines": {

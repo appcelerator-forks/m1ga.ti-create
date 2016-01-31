@@ -6,16 +6,16 @@
             'label': 'Create',
             'submenu': [{
                 'label': 'Project'
-                'command': 'ti-create:project'
+                'command': 'Titanium:create project'
                 }, {
                     'label': 'Controller'
-                    'command': 'ti-create:controller'
+                    'command': 'Titanium:create controller'
                 }, {
                     'label': 'Widget'
-                    'command': 'ti-create:widget'
+                    'command': 'Titanium:create widget'
                 }, {
                     'label': 'Model'
-                    'command': 'ti-create:model'
+                    'command': 'Titanium:create model'
                 }
             ]
         }]
